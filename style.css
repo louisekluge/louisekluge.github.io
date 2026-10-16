@@ -12,10 +12,10 @@ body {
 h1 { font-size: 2.3rem; margin-bottom: 0.5rem; }
 h2 { font-size: 1.75rem; margin-top: 2.4rem; }
 h3 { font-size: 1.3rem; margin-top: 1.6rem; }
-a { color: #ffd166; text-decoration: underline; }
+a { color: #62bfc2; text-decoration: underline; }
 a:hover { text-decoration: none; }
 .entry { margin: 0 0 1.1rem 0; }
 ul { padding-left: 1.3rem; }
 li { margin-bottom: 0.35rem; }
 footer { margin-top: 3rem; font-size: 0.9rem; }
-.email { color: #ffd166; }
+.email { color: #62bfc2; }
