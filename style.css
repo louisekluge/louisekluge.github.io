@@ -1,0 +1,21 @@
+html { color-scheme: dark; }
+body {
+  max-width: 46rem;
+  margin: 2.5rem auto;
+  padding: 0 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  color: #fff;
+  background: #000;
+}
+h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.4rem; margin-top: 2.2rem; }
+h3 { font-size: 1.15rem; margin-top: 1.6rem; }
+a { color: #ffd166; text-decoration: underline; }
+a:hover { text-decoration: none; }
+.entry { margin: 0 0 1.1rem 0; }
+ul { padding-left: 1.3rem; }
+li { margin-bottom: 0.35rem; }
+footer { margin-top: 3rem; font-size: 0.9rem; }
+.email { color: #ffd166; }
